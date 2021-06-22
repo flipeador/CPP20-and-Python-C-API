@@ -1,5 +1,6 @@
-# Python-C-API
+# CPP20-and-Python-C-API
 C++20 and Python/C API.
+Requires: Python 3.
 
 ## Example
 ### consoleapp.cpp

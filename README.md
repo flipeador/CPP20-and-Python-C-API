@@ -1,6 +1,11 @@
 # CPP20-and-Python-C-API
 C++20 and Python/C API.
+
 Requires: Python 3.
+
+`C:\Program Files\Python\include`
+
+`C:\Program Files\Python\libs`
 
 ## Example
 ### consoleapp.cpp
